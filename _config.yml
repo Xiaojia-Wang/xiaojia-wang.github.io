@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "wang4142@purdue.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:wang4142@purdue.edu"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/xiaojia-wang-03160314a/"}
   # - {title: GoogleScholar, icon: rss, url: "/feed.xml"}
 
