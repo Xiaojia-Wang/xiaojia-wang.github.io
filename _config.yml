@@ -26,9 +26,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:wang4142@purdue.edu"}
-  - {title: GoogleScholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=ePWiM7cAAAAJ&hl=en"}
+  # - {title: GoogleScholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=ePWiM7cAAAAJ&hl=en"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/xiaojia-wang-03160314a/"}
-  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Xiaojia-Wang-8"}
+  # - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Xiaojia-Wang-8"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
