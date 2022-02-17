@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file:"CV_XiaojiaWang.pdf", title: "CV"}
   - {title: "Research"}
   - {title: "Publications"}
+  - {title: "News"}
   - {title: "Contact"}
   #- {file: "index.html"}
   #- {file: "README.md"}
