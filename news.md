@@ -11,7 +11,7 @@ title: ""
 
 * **October 2021** Xiaojia participates in the poster session of [The 2021 SES (Virtual) Month: Mechanics Matters](https://socengsci.org/ses-virtual-month/), presenting **Dancing microchannels: Reduced models for unsteady fluid-structure interactions at the microscale**. Check the poster [here]()!
 
-* **August 2021** Xiaojia presents a talk at SPARC Workshop on Fluidics involving deformable interfaces. Check the talk video [here]()!
+* **August 2021** Xiaojia presents a talk at SPARC Workshop on Fluidics involving deformable interfaces.
 
 * **May 2021** Xiaojia passes the preliminary exam of the PhD program!
 
