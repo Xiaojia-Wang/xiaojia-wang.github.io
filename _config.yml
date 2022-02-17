@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://xiaojia-wang.github.io/cv/"}
   - {title: "Research"}
-  - {title: "Publications"}
+  - {title: "Publications", file: "publications.md"}
   - {title: "News"}
   - {title: "Contact"}
   #- {file: "index.html"}
