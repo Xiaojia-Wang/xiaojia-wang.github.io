@@ -3,12 +3,6 @@ layout: page
 title: ""
 ---
 
-### Links:
-* [Google scholar](https://scholar.google.com/citations?user=ePWiM7cAAAAJ&hl=en)
-* [Orcid ID](https://orcid.org/my-orcid?orcid=0000-0002-3487-1600)
-* [Research Gate](https://www.researchgate.net/profile/Xiaojia-Wang-8)
-
-
 ### In Refereed Journals:
 
 1. **Reduced modeling and global instability of finite-Reynolds-number flow in compliant rectangular channels**<br>
