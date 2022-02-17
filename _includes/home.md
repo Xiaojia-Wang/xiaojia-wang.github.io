@@ -1,8 +1,6 @@
 ---
 title:  ""
-mathjax: true
-layout: post
-categories: media
+layout: page
 ---
 
 Welcome to my personal website!
