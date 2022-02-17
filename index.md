@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to my personal website!"
+title: "I am Xiaojia Wang. Welcome to my personal website!"
 ---
 
 ![](/assets/me.jpg)
