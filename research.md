@@ -25,7 +25,7 @@ As many microfluidic devices are operated under higher flow rates, finite fluid 
 
 ### 3. Towards dynamics: FSI-induced global instabilities
 
-We further take the unsteadiness from the fluid and solid inertia into account. We reduce the FSI system consistenly from 3D to 1D, without introducing any fitting parameters. The [new 1D FSI model]() is the first reduced model considering the microscale FSI. The steady and unsteady behaviors of the model agree quanlitatively well with previous experimental observations. Importantly, **global unstable modes** can be induced by FSI in the 1D system. This observation bolsters the idea of **enhancing microcale mixing by leveraging FSIs**. The time evolution of the fluid-solid interface in the globally unstable case is shown in figure 2b. Also see an example [video here](https://youtu.be/E5_Nze4sW_Q). 
+We further take the unsteadiness from the fluid and solid inertia into account. We reduce the FSI system consistenly from 3D to 1D, without introducing any fitting parameters. The [new 1D FSI model]() is the first reduced model considering the microscale FSI. The steady and unsteady behaviors of the model agree quanlitatively well with previous experimental observations. Importantly, **global unstable modes** can be induced by FSI in the 1D system. This observation bolsters the idea of **enhancing microcale mixing by leveraging FSIs**. The time evolution of the fluid-solid interface in the globally unstable case is shown in figure 2b. Also see an example below. 
 
 {% include embed.html url="https://www.youtube.com/embed/E5_Nze4sW_Q" %}
 
