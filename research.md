@@ -19,6 +19,7 @@ microscale FSI systems, providing new insights into the physics of FSIs at the m
 
 ### 3. Towards dynamics: FSI-induced global instabilities
 
+{% include embed.html url="https://youtu.be/E5_Nze4sW_Q" %}
 
 ## Past research
 
