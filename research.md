@@ -20,7 +20,7 @@ microscale FSI systems, providing new insights into the physics of FSIs at the m
 
 ## Past research
 
-1. Steady-state scaling analysis and linear stability analysis of a one-dimensional system with lubrication flows coupled with nonlinear Euler-Bernoulli Beam.
+1. Steady-state scalings and the linear stability of a one-dimensional system with lubrication flows coupled with nonlinear Euler-Bernoulli Beam.
 2. **Master's thesis:** Predicting ship motions in waves using the indirect time-domain method
    - Derived a new Kramers-Kronig relations for ships with forward constant speed
    - Wrote a solver with FORTRAN to predict ship motions in time domain by transforming the hydrodynamic coefficients from the frequency-domian simulations based on the boundary element method
