@@ -1,8 +1,6 @@
 ---
-
+title:""
 layout: page
-title:" "
-
 ---
 
 ## Doctoral Research
