@@ -19,7 +19,7 @@ Due to FSI, the pressure drop required to maintain a steady flow varies nonlinea
 
 ### 2. Generalization: microscale FSI with finite fluid inertia
 
-As many microfluidic devices are operated under higher flow rates, finite fluid inertia needs to be taken into account when investigating the microscale FSIs. We would like to develop [a generalized theory(](https://aip.scitation.org/doi/10.1063/5.0062252) which accounts for finite fluid inertia and applies to microchannel systems with different geometrical properties. Noting that most of microchannels are made slender, we first extend the classic **lubrication approximation** for the flows by incluidng finite fluid inertia through a scaling analysis. Then, we show that, with linear elasticity, across a large range of wall thickness, the wall slenderness makes the wall deform like a **Winkler foundation**. The two findings motivates us to build a reduced system shown in Figure 2a. 
+As many microfluidic devices are operated under higher flow rates, finite fluid inertia needs to be taken into account when investigating the microscale FSIs. We would like to develop [a generalized theory](https://aip.scitation.org/doi/10.1063/5.0062252) which accounts for finite fluid inertia and applies to microchannel systems with different geometrical properties. Noting that most of microchannels are made slender, we first extend the classic **lubrication approximation** for the flows by incluidng finite fluid inertia through a scaling analysis. Then, we show that, with linear elasticity, across a large range of wall thickness, the wall slenderness makes the wall deform like a **Winkler foundation**. The two findings motivates us to build a reduced system shown in Figure 2a. 
 
 ![](/assets/research-fig2.png)Figure 2. (a) The deformed steady state of the reduced FSI system. (b) An example of the time evolution of the fluid-solid interface shape from the undeformed intial state. In this case, the system is found to be linearly unstable. 
 
@@ -27,7 +27,7 @@ As many microfluidic devices are operated under higher flow rates, finite fluid 
 
 We further take the unsteadiness from the fluid and solid inertia into account. We reduce the FSI system consistenly from 3D to 1D, without introducing any fitting parameters. The [new 1D FSI model]() is the first reduced model considering the microscale FSI. The steady and unsteady behaviors of the model agree quanlitatively well with previous experimental observations. Importantly, **global unstable modes** can be induced by FSI in the 1D system. This observation bolsters the idea of **enhancing microcale mixing by leveraging FSIs**. The time evolution of the fluid-solid interface in the globally unstable case is shown in figure 2b. Also see an example [video here](https://youtu.be/E5_Nze4sW_Q). 
 
-{% include embed.html url="https://youtu.be/E5_Nze4sW_Q" %}
+{% include embed.html url="https://www.youtube.com/embed/E5_Nze4sW_Q" %}
 
 ## Ongoing research
 1. Analyze the nonlinear dynamics of the [new 1D FSI model]() through Galerkin truncation
