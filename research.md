@@ -13,6 +13,8 @@ microscale FSI systems, providing new insights into the physics of FSIs at the m
 
 ### 1. Inertialess flow in compliant microchannel: nonlinear flow rate-pressure drop relation
 
+![](/assets/research-fig.001.jpeg)Figure 1. (a) A typical rectangular microchannel with a deformable top wall. (b) The predicted deformed fluid-solid interface at the leading order. (c) The nonliear flow rate-pressure drop relation at steady state. The curves are from the predictive theory, while the dots are experimental data published by *Gervais et al (2006)*.
+
 ### 2. Generalization: microscale FSI with finite fluid inertia
 
 ### 3. Towards dynamics: FSI-induced global instabilities
