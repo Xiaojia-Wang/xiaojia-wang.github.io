@@ -15,7 +15,11 @@ microscale FSI systems, providing new insights into the physics of FSIs at the m
 
 ![](/assets/research-fig1.png)Figure 1. (a) A typical rectangular microchannel with a deformable top wall. (b) The predicted deformed fluid-solid interface at the leading order. (c) The nonliear flow rate-pressure drop relation at steady state. The curves are from the predictive theory, while the dots are experimental data published by *Gervais et al (2006)*.
 
+Due to FSI, the pressure drop required to maintain a steady flow varies nonlinearly with the flow rate, significantly deviating from the classic Poiseuille's law in rigid conduits. We have analyzed the FSI in a commonly used thick-walled microchannel (Figure 1a) in the regime of inertialess flow based on the perturbation method. We successfully derived a fitting-parameter-free theory to predict the nonlinear flow rate-pressure drop relation, which rationalizes the experiment done by MIT in 2006 (Figure 1c). Please refer to our [recent paper](https://doi.org/10.1098/rspa.2019.0513) for details.
+
 ### 2. Generalization: microscale FSI with finite fluid inertia
+
+As many microfluidic devices are operated under higher flow rates, finite fluid inertia needs to be taken into account when investigating the microscale FSIs. We generalize our findings for inertialess microscale flows in compliant microchannels in two aspects, taking advantage of the fact that most of microchannels are made slender. First, we perform a scaling analysis to show that the lubrication approximation is applicable even with finite fluid inertia included. The key finding is that, due to the slenderness of the channel, the flow pressure varies along the streamwise direction only at the leading order. Second, the scaling analysis for the solid deformation shows that with linear elasticity, across a large range of wall thickness, the wall slenderness makes the deformations of cross-sections at different flowwise locations decouple from each other. The two findings motivates us to build a reduced system shown in Figure 2a. Please refer to our [recent paper](https://aip.scitation.org/doi/10.1063/5.0062252) for detailed discussions.
 
 ### 3. Towards dynamics: FSI-induced global instabilities
 
