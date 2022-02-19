@@ -7,7 +7,7 @@ categories: media
 ## Doctoral Research
 
 Microscale fluid-structure interactions (FSIs) have aroused the attention of the scientific community because internal flows in compliant micro-conduits are 
-often encountered in microfluidics. Although previous studies investigated the microscale FSIs from various perspectives, a unified understanding of the physics is lacking. My doctoral research aims to put forward a general theoretica framework for microscale flows in compliant micro-conduits. I have constructed a 
+often encountered in microfluidics. Although previous studies investigated the microscale FSIs from various perspectives, a unified understanding of the physics is lacking. My doctoral research aims to put forward a general theoretical framework for microscale flows in compliant micro-conduits. I have constructed a 
 **reduced one-dimensional (1D) FSI model**, with which, I have analyzed the **steady responses**, the **nonlinear dyanmics** and the **stabilities** of various 
 microscale FSI systems, providing new insights into the physics of FSIs at the microscale.    
 
@@ -25,13 +25,16 @@ As many microfluidic devices are operated under higher flow rates, finite fluid 
 
 ### 3. Towards dynamics: FSI-induced global instabilities
 
-Even though the Reynolds number of microscale flows are typically low (up to several hundreds), far below the well-documented critical value of hydrodynamic instabilities, surprisingly, previous experiments reported that FSI could trigger instabilities in the soft microchannel flows at this low Reynolds nummber. This observation has significant indication of new strategies of **enhancing microscale mixing by leveraging FSIs**. To understand the FSI-induced instabilities,  we construct [a new 1D FSI model]() by consistently reducing the system from 3D to 1D, without introducing any fitting parameters. The steady and unsteady behaviors of the model agree quanlitatively well with previous experimental observations. Importantly, **global unstable modes** are predicted in the 1D system. The time evolution of the fluid-solid interface in the globally unstable case is shown in figure 2b. Also see an example video below. 
+Even though the Reynolds number of microscale flows are typically low (up to several hundreds), far below the well-documented critical value of hydrodynamic instabilities, surprisingly, previous experiments reported that FSI could trigger instabilities in the soft microchannel flows at this low Reynolds nummber. This observation has significant indication of new strategies of **enhancing microscale mixing by leveraging FSIs**. To understand the FSI-induced instabilities,  we construct [a new 1D FSI model]() by consistently reducing the system from 3D to 1D, without introducing any fitting parameters. The steady and unsteady behaviors of the model agree qualitatively well with previous experimental observations. Importantly, **global unstable modes** are predicted in the 1D system. The time evolution of the fluid-solid interface in the globally unstable case is shown in figure 2b. Also see an example video below. 
 
 {% include embed.html url="https://www.youtube.com/embed/E5_Nze4sW_Q" %} The video shows the nonlinear dynamics of a globally unstable microchannel system. The fluid-solid interface evoloves in time with transverse waves proporgating back and forth. Self-sustained oscillations are triggered and self-sustained due to FSI.
 
 ## Ongoing research
-1. Analyze the nonlinear dynamics of the [new 1D FSI model]() through Galerkin truncation
-2. Investigate the FSIs in a compliant tube with prescribed oscillatory pressure drop with reduced modeling and direct numerical simulations via [SvFSI of SimVascular](https://simvascular.github.io/docssvFSI.html).
+### 1. The nonlinear dynamics of the new 1D FSI model
+The dynamic behaviors of the [new 1D FSI model]() in the parametric plane are yet determined. Interestingly, the numerical simulations of the 1D FSI model indicates that, if multiple unstable modes co-exist, the system is sensitive to initial conditions and displays a chaos-like behavior. Currently, we are building a reduced model through Galerkin truncation to unravel the effect of mode interactions and nonlinearities in the system.
+
+### 2. The FSIs in a compliant tube with prescribed oscillatory pressure drop 
+Fluids conveyed in a tube with a prescribed pressure drop are commonly seen in biological flows. What if the tube is made from soft materials? Currently, I am participating in a collaborative project trying to understand the FSIs in an oscillatory tube flows. We have constructed a 1D reduced model by coupling the Womersley velocity profile with linear elasticity, and observed **FSI-induced streaming** in the system. To validate our reduced model, we are also conducting direct numerical simulations via [SvFSI of SimVascular](https://simvascular.github.io/docssvFSI.html).
 
 ## Past research
 
