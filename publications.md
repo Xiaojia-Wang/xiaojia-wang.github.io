@@ -7,7 +7,7 @@ title: ""
 
 1. **Reduced modeling and global instability of finite-Reynolds-number flow in compliant rectangular channels**<br>
       <ins>Xiaojia Wang</ins>, Ivan Christov<br>
-      *In preparation*.
+      preprint [arXiv:2202.11704](https://arxiv.org/abs/2202.11704)
       
 2. **Reduced models of unidirectional flows in compliant rectangular ducts at finite Reynolds number**<br>
    <ins>Xiaojia Wang</ins>, Ivan Christov<br>
