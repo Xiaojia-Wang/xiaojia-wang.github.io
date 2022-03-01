@@ -17,7 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", icon: house-user, file: "index.md"}
-  - {title: "CV", url: "https://xiaojia-wang.github.io/cv/"}
+  #- {title: "CV", url: "https://xiaojia-wang.github.io/cv/"}
+  - {title: "CV", file: "cv.md"}
   - {title: "Research", file: "research.md"}
   - {title: "Publications", file: "publications.md"}
   - {title: "News", file: "news.md"}
