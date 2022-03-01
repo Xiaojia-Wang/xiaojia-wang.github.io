@@ -1,1 +1,1 @@
-<a href="xiaojia-wang.github.io/assets/xiaojiawang.pdf" target="_blank">PDF.</a>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/xiaojiawang.pdf" width="1000" height="1000" type="application/pdf"></object>
