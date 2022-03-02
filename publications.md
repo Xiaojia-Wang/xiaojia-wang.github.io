@@ -13,7 +13,7 @@ title: ""
    <ins>Xiaojia Wang</ins>, Ivan Christov<br>
    *Physics of Fluids*, 33(10):102004, 2021. [doi:10.1063/5.0062252](https://aip.scitation.org/doi/10.1063/5.0062252); preprint [arXiv:2109.03735](https://arxiv.org/abs/2109.03735)<br>
    :point_right: Featured Article<br>
-   :point_right: Contrubution to the special issue "[Tribute to Frank M. White on his 88th Anniversary](https://aip.scitation.org/topic/special-collections/fmw2021)"
+   :point_right: Contribution to the special issue "[Tribute to Frank M. White on his 88th Anniversary](https://aip.scitation.org/topic/special-collections/fmw2021)"
    
 3. **Unsteady fluid-structure interactions in a soft-walled microchannel: A one-dimensional lubrication model for finite Reynolds number**<br>
    Tanmay C. Inamdar, <ins>Xiaojia Wang</ins>, Ivan Christov<br>
