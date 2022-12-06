@@ -6,12 +6,12 @@ title: ""
 ### In Refereed Journals:
 
 1. **Flow rate–pressure drop relations for new configurations of slender compliant tubes arising in microfluidics experiments**<br>
-      <ins>Xiaojia Wang</ins>, Ivan Christov<br>
+      <ins>Xiaojia Wang</ins>, Shrihari D Pande, Ivan Christov<br>
       *Mechanics Research Communications*, 126:104016, 2022. [doi:10.1016/j.mechrescom.2022.104016](https://www.sciencedirect.com/science/article/pii/S0093641322001483?via%3Dihub); preprint [arXiv:2202.11704](https://arxiv.org/abs/2202.11704)
 
 
 2. **Reduced modeling and global instability of finite-Reynolds-number flow in compliant rectangular channels**<br>
-      <ins>Xiaojia Wang</ins>, Shrihari D Pande, Ivan Christov<br>
+      <ins>Xiaojia Wang</ins>, Ivan Christov<br>
       *Journal of Fluid Mechanics*, 950 A26, 2022. [doi:10.1017/jfm.2022.802](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reduced-modelling-and-global-instability-of-finitereynoldsnumber-flow-in-compliant-rectangular-channels/29A9842D865336270ABAB4DB45F98730); preprint [arXiv:2202.11704](https://arxiv.org/abs/2202.11704)
       
 3. **Reduced models of unidirectional flows in compliant rectangular ducts at finite Reynolds number**<br>
