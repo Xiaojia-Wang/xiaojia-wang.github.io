@@ -4,9 +4,9 @@ layout: page
 title: ""
 
 ---
-* **Nov 2022** Xiaojia a talk at the [75th Annual Meeting of the APS Division of Fluid Dynamics](https://www.apsdfd2022.org/). Check the talk abstract [here](https://meetings.aps.org/Meeting/DFD22/Session/A33.5)!
+* **Nov 2022** Xiaojia gives a talk at the [75th Annual Meeting of the APS Division of Fluid Dynamics](https://www.apsdfd2022.org/). Check the talk abstract [here](https://meetings.aps.org/Meeting/DFD22/Session/A33.5)!
 
-* **Aug 2022** Xiaojia joins the Deparament of Mathematics at University of Michigan as a Postoctoral Assistant Professor!
+* **Aug 2022** Xiaojia joins the Department of Mathematics at University of Michigan as a Postoctoral Assistant Professor!
 
 * **July 2022** Xiaojia defends her PhD Thesis. Check the thesis [here](https://hammer.purdue.edu/articles/thesis/Modeling_and_Stability_of_Flows_in_Compliant_Microchannels/20332560)!
 
