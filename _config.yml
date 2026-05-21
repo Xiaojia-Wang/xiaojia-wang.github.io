@@ -1,6 +1,6 @@
 title: "Xiaojia Wang"
 author: "Xiaojia Wang"
-description: "University of Michigan"
+# description: "University of Michigan"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,13 +21,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", file: "cv.md"}
   - {title: "Research", file: "research.md"}
   - {title: "Publications", file: "publications.md"}
-  - {title: "News", file: "news.md"}
+  # - {title: "News", file: "news.md"}
   #- {title: "Contact", file: "contact.md"}
   #- {file: "index.html"}
   #- {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:xiaojia@umich.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:xjwang@alumni.purdue.edu"}
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=ePWiM7cAAAAJ&hl=en"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/xiaojia-wang-03160314a/"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Xiaojia-Wang-8"}
