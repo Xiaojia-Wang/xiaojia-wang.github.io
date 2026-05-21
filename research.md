@@ -4,10 +4,9 @@ title: ""
 categories: media
 ---
 
-## Doctoral Research
+## Microscale Fluid--Structure Interactions
 
-Microscale fluid-structure interactions (FSIs) have aroused the attention of the scientific community because internal flows in compliant micro-conduits are 
-often encountered in microfluidics. Although previous studies investigated the microscale FSIs from various perspectives, a unified understanding of the physics is lacking. My doctoral research aims to put forward a general theoretical framework for Newtonian fluids flowing through compliant micro-conduits. I have constructed a **reduced one-dimensional (1D) model**, with which, I have analyzed the **steady responses**, the **nonlinear dyanmics** and the **stabilities** of such microsystems, providing new insights into the physics of FSIs at the microscale.    
+Microscale fluid-structure interactions (FSIs) have aroused the attention of the scientific community because internal flows in compliant micro-conduits are often encountered in microfluidics. Although previous studies investigated the microscale FSIs from various perspectives, a unified understanding of the physics is lacking. Our research aims to put forward a general theoretical framework for Newtonian fluids flowing through compliant micro-conduits. We have constructed a **reduced one-dimensional (1D) model**, with which, we have analyzed the **steady responses**, the **nonlinear dyanmics** and the **stabilities** of such microsystems, providing new insights into the physics of FSIs at the microscale.    
 
 ### 1. Inertialess flow in compliant microchannel: nonlinear flow rate-pressure drop relation
 
@@ -27,18 +26,8 @@ Even though the Reynolds number of microscale flows are typically low (up to sev
 
 {% include embed.html url="https://www.youtube.com/embed/E5_Nze4sW_Q" %} The video shows the nonlinear dynamics of a globally unstable microchannel system. The fluid-solid interface evoloves in time with transverse waves proporgating back and forth. Self-sustained oscillations are triggered and self-sustained due to FSI.
 
-## Ongoing research
-### 1. The nonlinear dynamics of the new 1D FSI model
-The dynamic behaviors of the [new 1D FSI model](https://arxiv.org/abs/2202.11704) in the parametric plane are yet determined. I have developed computational tools (strongly-implicit finite-difference schemes and pseudospectral methods) to accurately integrate the governing equations, including capturing the fast-time-scale oscillatory behaviors. Interestingly, from these simulations, I observe that if multiple unstable modes co-exist, the 1D reduced system is sensitive to initial conditions and displays a chaos-like behavior. Currently, we are building a reduced model through Galerkin truncation to unravel the effect of mode interactions and nonlinearities in the system.
 
-### 2. The FSIs in a compliant tube with prescribed oscillatory pressure drop 
-Fluids conveyed in a tube with a prescribed pressure drop are commonly seen in biological flows. What if the tube is made from soft materials? Currently, I am participating in a collaborative project trying to understand the FSIs in an oscillatory tube flows. We have constructed a 1D reduced model by coupling the Womersley velocity profile with linear elasticity, and observed **FSI-induced streaming** in the system. To validate our reduced model, we are also conducting direct numerical simulations via [SvFSI of SimVascular](https://simvascular.github.io/docssvFSI.html).
+## Vortex dynamics of Oscillating bodies
 
-## Past research
-
-1. Steady-state scalings and the linear stability of a one-dimensional system with lubrication flows coupled with nonlinear Euler-Bernoulli Beam ([paper](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.064101)).
-2. **Master's thesis:** Predicting ship motions in waves using the indirect time-domain method
-   - Derived a new Kramers-Kronig relations for ships with forward constant speed
-   - Wrote a solver with FORTRAN to predict ship motions in time domain by transforming the hydrodynamic coefficients from the frequency-domian simulations based on the boundary element method
-   - Studied the parametric roll of ships by calculating the restoring forces on the instantaneous wet surfaces
+### 1. How vortices enhance heat transfer from an oscillating plate
    
