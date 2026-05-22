@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", file: "cv.md"}
   - {title: "Research", file: "research.md"}
   - {title: "Publications", file: "publications.md"}
+  - {title: "Teaching", file: "Teaching.md"}
   # - {title: "News", file: "news.md"}
   #- {title: "Contact", file: "contact.md"}
   #- {file: "index.html"}
