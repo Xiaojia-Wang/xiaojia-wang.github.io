@@ -4,12 +4,12 @@ title: ""
 ---
 
 ### In Refereed Journals:
-11\. **Enhancing wall-to-wall heat transport with unsteady flow perturbations**
-      Silas Alben, <ins>Xiaojia Wang</ins>, Nicole Vuong
+11\. **Enhancing wall-to-wall heat transport with unsteady flow perturbations**<br>
+      Silas Alben, <ins>Xiaojia Wang</ins>, Nicole Vuong<br>
       *Journal of Fluid Mechanics*, 1024 A51, 2025. [doi: 10.1017/jfm.2025.10931](https://doi.org/10.1017/jfm.2025.10931)
 
 10\. **How vortices enhance heat transfer from an oscillating plate**<br>
-      <ins>Xiaojia Wang</ins>, Silas Alben
+      <ins>Xiaojia Wang</ins>, Silas Alben<br>
       *Journal of Fluid Mechanics*, 1013 A47, 2025. [doi: 10.1017/jfm.2025.10201](https://doi.org/10.1017/jfm.2025.10201)
 
 9\. **Oscillatory flows in compliant conduits at arbitrary Womersley number**<br>
